@@ -1,0 +1,6 @@
+Add-on Name: Swimming
+
+Add-on Discription:
+- Adds Swimming Support to soft chimp locomotion,
+- Customization with swimming speed and Dampening,
+- Optimized to not Cause Lag.
