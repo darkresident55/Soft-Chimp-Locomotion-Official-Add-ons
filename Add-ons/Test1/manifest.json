@@ -1,7 +1,7 @@
 {
   "name": "Swimming",
   "version": "1.5",
-  "description": "A Official Swimming Add-On for SCL",
+  "description": "An Official Swimming Add-On for SCL",
   "author": "Tareno Labs LLC.",
   "dependencies": ["SCL V10"],
   "documentation": "https://example.com/docs"
