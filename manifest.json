@@ -1,0 +1,8 @@
+{
+  "name": "Sample Add-On",
+  "version": "1.0.0",
+  "description": "A sample add-on for testing upload functionality",
+  "author": "Your Name",
+  "dependencies": ["Core Locomotion v1.0+"],
+  "documentation": "https://example.com/docs"
+}
