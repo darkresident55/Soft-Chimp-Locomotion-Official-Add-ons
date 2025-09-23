@@ -1,8 +1,8 @@
 {
-  "name": "Sample Add-On",
+  "name": "Swimming",
   "version": "1.0.0",
-  "description": "A sample add-on for testing upload functionality",
-  "author": "Your Name",
-  "dependencies": ["Core Locomotion v1.0+"],
+  "description": "Swimming System for SCL",
+  "author": "Anemunt",
+  "dependencies": ["SCL V10"],
   "documentation": "https://example.com/docs"
 }
