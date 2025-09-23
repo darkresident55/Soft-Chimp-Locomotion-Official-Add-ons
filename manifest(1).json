@@ -1,0 +1,8 @@
+{
+  "name": "Fish Movement",
+  "version": "0.1",
+  "description": "A Fan Made Fish Locomotion Setting!",
+  "author": "Echo Interactive LLC.",
+  "dependencies": ["SCL V10"],
+  "documentation": "https://docs.echointeractive.xyz"
+}
