@@ -1,0 +1,8 @@
+{
+  "name": "Hmm? it's testing time!",
+  "version": "1.0",
+  "description": "It's Testing time!!!!",
+  "author": "Tareno Labs LLC.",
+  "dependencies": ["SCL V10"],
+  "documentation": "https://github.com/darkresident55/Soft-Chimp-Locomotion/wiki"
+}
