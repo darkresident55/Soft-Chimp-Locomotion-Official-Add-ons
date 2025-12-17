@@ -1,0 +1,8 @@
+{
+  "name": "Base Locomotion",
+  "version": "10.0",
+  "description": "The Base Tools for SCL",
+  "author": "Tareno Labs LLC.",
+  "dependencies": ["SCL V10"],
+  "documentation": "https://github.com/darkresident55/Soft-Chimp-Locomotion/wiki"
+}
